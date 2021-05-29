@@ -28,4 +28,3 @@ Word = "";
 file.close();
 return TREE;
 }
-}
